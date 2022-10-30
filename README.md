@@ -1,1 +1,1 @@
-# intro_to_rl
+# Reinforcement Learning Series
